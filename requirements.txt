@@ -1,0 +1,38 @@
+# Core ML dependencies
+torch
+torchvision
+torchaudio
+pytorch-lightning
+torchmetrics
+
+# Audio processing
+librosa==0.8.0
+audiomentations
+sherpa-onnx
+
+# ML tools and utilities
+ray[default]
+tokenizers
+pytorch-nlp
+onnx
+
+# Visualization and terminal
+matplotlib
+py-term
+
+# Scientific computing
+scipy
+numpy
+
+# XML processing
+lxml
+
+# Testing
+pytest
+
+# Scheduling
+event-scheduler
+
+# Additional requirements from imports
+requests
+pynini 
